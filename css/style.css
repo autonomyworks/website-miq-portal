@@ -2520,3 +2520,15 @@ MEDIA QUERIES
 .green_btn:hover {
     background-color: #71D603;
 }
+.form-control{
+	width: 70% !important;
+	margin: 10px 0px;
+}
+.table #mceu_16,.table #mceu_144
+{
+	width: 71% !important;
+}
+.custom-content
+{
+	padding-right: 7px;
+}
